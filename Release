@@ -1,9 +1,9 @@
-Origin: Axs Repo
-Label: Axs Repo
+Origin: 💫又是深情的一天
+Label: 💫又是深情的一天
 Suite: stable
 Version: 1.0
-Codename: Axs
+Codename: bqii
 Architectures: iphoneos-arm64
 Components: master
-Description: Axs Sileo Repository
+Description: bqii Sileo Repository
 Icon: file://CydiaIcon.png
