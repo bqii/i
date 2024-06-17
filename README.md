@@ -20,7 +20,7 @@
 <div class="content">
   
 	<p>这里是《又是深情的一天》的Github源库 <a href="https://bqii.github.io/i/">
-<img border="0" src="Github.png" width="84" height="32"></a></p>
+<img border="0" src="wency.png" width="84" height="32"></a></p>
   
   <h2 id="jailbreak">点击下方添加软件源</h2>
 	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://bqii.github.io/i/">添加Cydia</a><br>
